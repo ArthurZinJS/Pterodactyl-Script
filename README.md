@@ -11,6 +11,12 @@ Recursos
 - Painel: configuração automática (opcional) do firewall.
 - Suporte para desinstalação tanto do painel quanto do wings.
 
+
+Nota: Em alguns sistemas, é necessário já estar logado como root antes de executar o comando de uma linha (onde o sudo está na frente do comando não funciona).
+
+bash <(curl -s https://pterodactyl-installer.se)
+
+
 Ajuda e suporte
 
 (https://pterodactyl.io).
